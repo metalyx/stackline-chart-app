@@ -4,14 +4,14 @@
 
 Vitalii Tereshchenko
 
-E-mail: [metalyx3@gmail.com](mailto:metalyx3@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/vitalii-tereshchenko-4627b8226/?locale=en_US](https://www.linkedin.com/in/vitalii-tereshchenko-4627b8226/?locale=en_US) 
-Telegram: [@metalyxxx](https://t.me/metalyxxx)
+- E-mail: [metalyx3@gmail.com](mailto:metalyx3@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/vitalii-tereshchenko-4627b8226/?locale=en_US](https://www.linkedin.com/in/vitalii-tereshchenko-4627b8226/?locale=en_US) 
+- Telegram: [@metalyxxx](https://t.me/metalyxxx)
 
 ## How to run?
 
-`npm install` and then `npm start` - for run
-`npm run build` - for build
+- `npm install` and then `npm start` - for run <br />
+- `npm run build` - for build
 
 ## Where to watch demo?
 
@@ -23,5 +23,5 @@ React with TypeScript overall, Redux(RTK) for state management, SCSS - for style
 
 ## What else?
 
-It was fun for me to do this project! :)
+It was fun for me to do this project! :) <br />
 Let me know what you thin about it, and have a good one!
