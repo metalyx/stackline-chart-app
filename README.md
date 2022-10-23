@@ -15,7 +15,7 @@ Vitalii Tereshchenko
 
 ## Where to watch demo?
 
-You can check it out on [Heroku]()
+You can check it out on [Netlify](https://master--phenomenal-cassata-1c147a.netlify.app/)
 
 ## What is in the project?
 
