@@ -1,6 +1,13 @@
+@import '../../styles/variables.scss';
+
 .productContainer {
     width: 300px;
 
+
+    @media screen and (max-width: $lg) {
+        margin: 0 auto;
+        width: 100%;
+    }
 
     .productDescription {
         display: flex;

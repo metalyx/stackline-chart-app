@@ -21,7 +21,11 @@ const Main: React.FC = () => {
 
     return (
         <>
-            {isLoading && <Loader />}
+            {isLoading && (
+                <div className='loaderContainer'>
+                    <Loader />
+                </div>
+            )}
             {error.length > 0 && (
                 <div className='errorMessage'>
                     {error}
