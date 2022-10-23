@@ -1,0 +1,51 @@
+.productDetailsTable {
+    width: calc(100% + 20px);
+    margin-left: -10px;
+    border-collapse: collapse;
+
+    thead {
+        height: 50px;
+
+        th {
+            cursor: pointer;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+
+            text-transform: uppercase;
+            font-weight: normal;
+
+            .arrow {
+                width: 15px;
+                transition: transform 200ms;
+                position: relative;
+                top: 2px;
+            }
+
+            .arrow.hidden {
+                visibility: hidden;
+            }
+
+            .arrow.up {
+                transform: rotate(-90deg);
+            }
+            .arrow.down {
+                transform: rotate(90deg);
+            }
+        }
+    }
+
+    td {
+        text-align: center;
+        color: gray;
+    }
+
+    tbody {
+        tr {
+            border-top: 1px solid rgb(246, 248, 250);
+            border-bottom: 1px solid rgb(246, 248, 250);
+            height: 40px;
+        }
+    }
+}
+
